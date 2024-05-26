@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Chemical Engineering, The University of Tennessee Knoxville, 2022 
+* Ph.D in Chemical Engineering, The University of Tennessee Knoxville, USA, 2022 
 * B.Tech. in Chemical Engineering, Indian Institute of Technology, Dhanbad, 2015
 
 Work experience
 ======
-* Mar 2022 - May 2024: Postdoctoral Research Associate, Washington University in St. Louis
+* Mar 2022 - May 2024: Postdoctoral Research Associate, Washington University in St. Louis, USA
   
   
 Skills
