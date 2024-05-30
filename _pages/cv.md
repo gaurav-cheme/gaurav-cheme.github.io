@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Dr. Gaurav Chauhan"
-permalink: /cv/
+permalink: /Gaurav/
 author_profile: true
 redirect_from:
   - /resume
