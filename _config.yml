@@ -21,21 +21,21 @@ repository               : "gaurav-cheme/gaurav-cheme.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "bio-photo.png"
+  name             : "Gaurav Chauhan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Computational enzyme engineering and "
+  location         : "Indore"
+  employer         : "IIT Indore"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "gaurav.kankhal1@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=MdAFTWoAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : "https://orcid.org/0000-0003-2510-8635"
+  pubmed           : "NA"
   researchgate     : # URL
 
   # Repositories and software development
