@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Gaurav Chauhan"
+title: "Dr. Gaurav Chauhan"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,8 +16,7 @@ Education
 
 Work experience
 ======
-* Mar 2022 - May 2024: Postdoctoral Research Associate, Washington University in St. Louis, USA
-  Postdoctoral Advisor: Prof. Rohit V. Pappu
+* Mar 2022 - May 2024: Postdoctoral Research Associate, Washington University in St. Louis, USA // Postdoctoral Advisor: Prof. Rohit V. Pappu
   
   
 Skills
