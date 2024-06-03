@@ -1,13 +1,18 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biomolecular phase separation and enzyme engineering research group"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+** Join the Group!
+PhD positions: We are actively recruiting for PhD students. Please apply formally via IIT Indore's website or send an email to gaurav@iiti.ac.in expressing your interest. Some of the projects would include studying the role of phase separation of proteins on reaction kinetics in biological systems. 
+
+** Research Focus
+
+We use computational tools to uncover the driving forces for and the subsequent role of phase separation on spatial organization in biological systems. While 
 
 A data-driven personal website
 ======
