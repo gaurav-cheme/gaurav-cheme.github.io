@@ -19,14 +19,10 @@ Work experience
 * Mar 2022 - May 2024: Postdoctoral Research Associate, Washington University in St. Louis, USA // Postdoctoral Advisor: Prof. Rohit V. Pappu
   
   
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Polymer Physics
+* Phase separation coupled to reactions
 
 Publications
 ======
@@ -48,4 +44,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
