@@ -7,10 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-**Join the Group!**//
+**Join the Group!**
+=====
 PhD positions: We are actively recruiting for PhD students. Please apply formally via IIT Indore's website or send an email to **gaurav@iiti.ac.in** expressing your interest. Some of the projects would include studying the role of phase separation of proteins on reaction kinetics in biological systems. 
 
-**Research Focus**//
+**Research Focus**
+=====
 We will use computational and theoretical tools to uncover the role of phase separation of proteins/RNA/DNA on biochemical reactions. Secondly, we will also engineer better enzymes for efficient biofuel production using computational tools. 
 
 &nbsp Coupling of phase separation to biochemical reactions
