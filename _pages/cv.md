@@ -4,7 +4,7 @@ title: "Dr. Gaurav Chauhan"
 permalink: /Gaurav/
 author_profile: true
 redirect_from:
-  - /resume
+  - /CV
 ---
 
 {% include base_path %}
@@ -15,7 +15,9 @@ Education
 * B.Tech. in Chemical Engineering, Indian Institute of Technology, Dhanbad, 2015
 
 Work experience
+
 ======
+* June 2024: Assistant Professor, Department of Chemical Engineering, IIT Indore
 * Mar 2022 - May 2024: Postdoctoral Research Associate, Washington University in St. Louis, USA // Postdoctoral Advisor: Prof. Rohit V. Pappu
   
   
