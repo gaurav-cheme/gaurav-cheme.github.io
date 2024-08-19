@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Instructor, Introduction to Soft Matter and Polymers"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Teaching"
+permalink: /teaching/2024-Monsoon-teaching-1
+venue: "Indian Institute of Technology Indore, Department of Chemical Engineering"
+date: 20-07-2024
+location: "Indore, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
