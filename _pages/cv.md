@@ -23,7 +23,7 @@ Work experience
   
 Research Interests
 ======
-* Polymer Physics
+* Polymer Physics of associative proteins and RNA
 * Computational enzyme design
 * Systems Biology
 * Phase separation coupled to reactions
