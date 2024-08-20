@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Dr. Gaurav Chauhan"
-permalink: /Gaurav/
+title: "CV"
+permalink: /cv/
 author_profile: true
 redirect_from:
-  - /CV
+  - /resume
 ---
 
 {% include base_path %}
