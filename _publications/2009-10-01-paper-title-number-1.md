@@ -3,7 +3,7 @@ title: "Crowder titrations enable the quantification of driving forces for macro
 collection: publications
 permalink: /publication/2024-Biophysical-Journal
 excerpt: 'Here we showed how the depletion-mediated attractions afforded by crowders can be leveraged to obtain comparative assessments of macromolecule-specific, intrinsic driving forces for phase separation.'
-date: 2024
+date: 01-01-2024
 venue: 'Biophysical Journal'
 paperurl: '[google.com/scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MdAFTWoAAAAJ&sortby=pubdate&citation_for_view=MdAFTWoAAAAJ:u-x6o8ySG0sC)'
 citation: 'Chauhan, G., Bremer, A., Dar, F., Mittag, T., & Pappu, R. V. (2024). Crowder titrations enable the quantification of driving forces for macromolecular phase separation. Biophysical Journal, 123(11), 1376-1392.'
