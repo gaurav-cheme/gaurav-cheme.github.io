@@ -13,7 +13,7 @@ PhD positions: We are actively recruiting for PhD students. Please apply formall
 
 **Research Focus**
 =====
-We use computational and theoretical tools to uncover the role of phase separation of proteins/RNA/DNA on biochemical reactions. Secondly, we will also engineer better enzymes for efficient biofuel production using computational tools. 
+We are a research group based in the Department of Chemical Engineering at IIT Indore. We use computational and theoretical tools to uncover the role of phase separation of proteins/RNA/DNA on biochemical reactions. We also engineer better enzymes for efficient biofuel production using computational tools. 
 
 > **Coupling of phase separation to biochemical reactions**
 =====

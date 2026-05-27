@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-
+#ruby -e "class String; def tainted?; false; end; end" -S bundle exec jekyll serve
 # Basic Site Settings
 locale                   : "en-IN"
 title                    : "Home"
@@ -46,7 +46,7 @@ author:
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
-  # Social media
+  #Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
@@ -233,10 +233,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _members
   - scope:
       path: ""
-      type: teaching
+      type: members
     values:
       layout: single
       author_profile: true

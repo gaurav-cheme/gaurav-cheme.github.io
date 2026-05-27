@@ -26,3 +26,17 @@ group :jekyll_plugins do
   gem 'hawkins'
   gem "webrick", "~> 1.8"
 end
+
+gem "csv", "~> 3.3"
+
+gem "jekyll", "~> 3.9"
+
+gem "bigdecimal", "~> 4.1"
+
+gem "liquid", "~> 4.0"
+
+gem "ffi", "~> 1.15.0"
+
+gem "connection_pool", "~> 2.4"
+
+gem "public_suffix", "~> 4.0.7"
