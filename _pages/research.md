@@ -3,9 +3,9 @@ permalink: /research/
 layout: single
 title: "Biomacromolecular phase separation and enzyme engineering research group"
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
+# redirect_from: 
+#   - /research/
+#   - /research.html
 ---
 
 **Join the Group!**
