@@ -13,13 +13,13 @@ We use computational and theoretical tools to: i) understand the rich polymer ph
 
 ### Engineering synthetic cell-free pyrenoids for efficient carbon fixation
 
-<img src="{{ '/images/pyrenoid_research.png'}}" style="float: right; max-width: 35%; margin-left: 20px; margin-bottom: 15px; border-radius: 4px; border: none !important; 
+<img src="{{ '/images/pyrenoid_research.png'}}" style="float: right; max-width: 50%; margin-left: 20px; margin-bottom: 15px; border-radius: 4px; border: none !important; 
             box-shadow: none !important; 
             mix-blend-mode: multiply;" alt="Pyrenoid Phase Separation">
 
 Almost one-half of all the global carbon capture takes place in the oceans, and most of this assimilation is attributed to eukaryotic algae. Eukaryotic algae perform photosynthetic carbon assimilation via the CO₂-fixing enzyme Ribulose-1,5-bisphosphate carboxylase/oxygenase (Rubisco), which is frequently clustered within a non-membrane-bound microcompartment called the pyrenoid. Pyrenoids are phase-separated compartments of the enzyme Rubisco and its scaffold EPYC1 protein. 
 
-Rubisco catalyzes the carboxylation of ribulose-1,5-bisphosphate (RuBP) to yield two molecules of 3-phosphoglycerate (3-PG). This 3-PG product is subsequently utilized in the Calvin-Benson-Bassham (CBB) cycle to regenerate RuBP and produce organic glucose precursors. In this project, we aim to use computer simulations and synthetic biology tools to engineer minimal pyrenoids capable of capturing inorganic carbon dioxide and turning it into useful organic precursors. By obtaining design rules for the construction of a minimal pyrenoid and its demonstration, we can create a prototype device which can be engineered to capture CO₂ effectively, and convert it to a useful product.
+In this project, we aim to use computer simulations and synthetic biology tools to engineer minimal pyrenoids capable of capturing inorganic carbon dioxide and turning it into useful organic precursors. By obtaining design rules for the construction of a minimal pyrenoid and its demonstration, we can create a prototype device which can be engineered to capture CO₂ effectively, and convert it to a useful product.
 
 <div style="clear: both;"></div>
 
