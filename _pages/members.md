@@ -68,6 +68,15 @@ Gaurav did his postdoctoral training in <strong> Prof. Rohit Pappu's group at Wa
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 25px; background: #fdfdfd; padding: 15px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+  <img src="/images/members/Rishan.jpg" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; flex-shrink: 0; border: 2px solid #eee;">
+  <div style="flex-grow: 1;">
+    <h4 style="margin-top: 0; margin-bottom: 5px; color: #222;">Rishan Gobse</h4>
+    <p style="font-style: italic; color: #666; margin-bottom: 10px;">Undergraduate B. Tech. Researcher</p>
+    <p style="margin: 0; color: #444; line-height: 1.5;">Aggregation behavior of GLP-1 drugs.</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 25px; background: #fdfdfd; padding: 15px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
   <img src="/images/members/hasan.jpg" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; flex-shrink: 0; border: 2px solid #eee;">
   <div style="flex-grow: 1;">
     <h4 style="margin-top: 0; margin-bottom: 5px; color: #222;">Hasan</h4>
