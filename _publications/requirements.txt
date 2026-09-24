@@ -1,0 +1,10 @@
+# For doi_pubs.py
+bibtexparser
+requests
+
+# For fetch_toc_images.py
+beautifulsoup4
+pyyaml
+
+# For scholar_to_bib.py (Google Scholar sync)
+scholarly

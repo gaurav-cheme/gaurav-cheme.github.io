@@ -6,6 +6,7 @@ date: 2025-01-01
 venue: 'bioRxiv'
 paperurl: 'https://doi.org/10.1101/2025.09.04.674235'
 citation: 'Cantrall, Gregory R and Chauhan, Gaurav and Abel, Steven M. (2025). &quot;Crowding-induced collapse and adsorption of polymers with nonuniform bending stiffness.&quot; <i>bioRxiv</i>.'
+image: '/images/publications/2025-01-01-crowdinginduced-collapse-and-adsorption-of-polymer.png'
 ---
 
 <details>

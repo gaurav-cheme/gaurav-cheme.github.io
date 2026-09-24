@@ -6,6 +6,7 @@ date: 2026-01-01
 venue: 'Small'
 paperurl: 'https://doi.org/10.1002/smll.202503643'
 citation: 'Ojha, Manisha and Kumar, Yashwant and Saxena, Vidhi and Tiwari, Tanu and Chauhan, Gaurav and Pushpavanam, Karthik. (2026). &quot;Liquid-Liquid Phase Separation to Fabricate Microgels of Recombinantly Expressed Proteins.&quot; <i>Small</i>.'
+image: '/images/publications/2026-01-01-liquidliquid-phase-separation-to-fabricate-microge.png'
 ---
 
 <details>

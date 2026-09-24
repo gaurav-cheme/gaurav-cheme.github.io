@@ -6,6 +6,7 @@ date: 2022-01-01
 venue: 'Preprint'
 paperurl: 'https://doi.org/10.1021/acssynbio.8b00139'
 citation: 'Chauhan, Gaurav. (2022). &quot;Crowd Control: Regulating the Spatial Organization of Biopolymers and Gene Expression by Macromolecular Crowding.&quot; <i>Preprint</i>.'
+image: '/images/publications/2022-01-01-crowd-control-regulating-the-spatial-organization-.png'
 ---
 
 <details>

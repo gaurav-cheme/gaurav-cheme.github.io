@@ -2,7 +2,7 @@
 layout: archive
 title: "Group Members"
 permalink: /members/
-author_profile: true
+author_profile: false
 ---
 
 ### Principal Investigator

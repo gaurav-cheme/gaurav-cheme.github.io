@@ -6,6 +6,7 @@ date: 2025-01-01
 venue: 'Science Advances'
 paperurl: 'https://doi.org/10.1126/sciadv.adv7875'
 citation: 'Chauhan, Gaurav and Wilkinson, Edward G and Yuan, Yaning and Cohen, Samuel R and Onishi, Masayuki and Pappu, Rohit V and Strader, Lucia C. (2025). &quot;Active transport enables protein condensation in cells.&quot; <i>Science Advances</i>.'
+image: '/images/publications/2025-01-01-active-transport-enables-protein-condensation-in-c.png'
 ---
 
 <details>

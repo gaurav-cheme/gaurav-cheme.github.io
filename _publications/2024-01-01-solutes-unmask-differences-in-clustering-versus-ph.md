@@ -6,6 +6,8 @@ date: 2024-01-01
 venue: 'Nature communications'
 paperurl: 'https://doi.org/10.1038/s41467-024-48775-3'
 citation: 'Kar, Mrityunjoy and Vogel, Laura T and Chauhan, Gaurav and Felekyan, Suren and Ausserw\"oger, Hannes and Welsh, Timothy J and Dar, Furqan and Kamath, Anjana R and Knowles, Tuomas PJ and Hyman, Anthony A and others. (2024). &quot;Solutes unmask differences in clustering versus phase separation of FET proteins.&quot; <i>Nature communications</i>.'
+image: '/images/publications/2024-01-01-solutes-unmask-differences-in-clustering-versus-ph.png'
+teaser: "publications/2024-01-01-solutes-unmask-differences-in-clustering-versus-ph.png"
 ---
 
 <details>

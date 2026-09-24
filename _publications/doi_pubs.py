@@ -3,6 +3,8 @@ import os
 import requests
 import time
 
+import pub_utils as pu
+
 def get_metadata_from_doi(doi):
     """Queries Crossref API for both DOI and Abstract."""
     if not doi:
@@ -13,7 +15,7 @@ def get_metadata_from_doi(doi):
         if response.status_code == 200:
             message = response.json().get('message', {})
             abstract = message.get('abstract', '')
-            # Crossref abstracts often contain JATS XML tags like <jats:p>; let's clean them
+            # Clean Crossref JATS XML tags
             clean_abstract = abstract.replace('<jats:p>', '').replace('</jats:p>', '').replace('<jats:title>Abstract</jats:title>', '')
             return doi, clean_abstract
     except Exception as e:
@@ -29,8 +31,6 @@ def get_doi_from_title(title, authors):
             items = response.json().get('message', {}).get('items', [])
             if items:
                 doi = items[0].get('DOI')
-                # Crossref search doesn't return the abstract in the search results, 
-                # so we call the specific DOI endpoint
                 return get_metadata_from_doi(doi)
     except:
         pass
@@ -64,19 +64,40 @@ def generate_markdown_from_bib(bib_file, output_dir):
 
         paper_url = f"https://doi.org/{doi}" if doi else entry.get('url', '#')
 
+        # Format long filename base and corresponding image path
         clean_title = "".join(x for x in title if x.isalnum() or x == " ")
-        filename = f"{year}-01-01-{clean_title.replace(' ', '-').lower()[:50]}.md"
-        filepath = os.path.join(output_dir, filename)
+        title_slug = clean_title.replace(' ', '-').lower()[:50]
+        base_filename = f"{year}-01-01-{title_slug}"
 
-        # Markdown with hidden/collapsible abstract
+        filename = f"{base_filename}.md"
+        filepath = os.path.join(output_dir, filename)
+        image_path = f"/images/publications/{base_filename}.png"
+
+        # Preserve existing custom front matter fields if updating existing files
+        extra_fm_lines = []
+        if os.path.exists(filepath):
+            try:
+                old_fm_text, old_fm, _ = pu.read_pub_file(filepath)
+                known_fields = {"title", "collection", "permalink", "date", "venue", "paperurl", "citation", "image"}
+                for line in old_fm_text.splitlines():
+                    field = line.split(":", 1)[0].strip()
+                    if field and field not in known_fields:
+                        extra_fm_lines.append(line)
+            except Exception as e:
+                print(f"  ! could not read existing {filename}, will overwrite fully: {e}")
+
+        extra_fm_block = ("\n" + "\n".join(extra_fm_lines)) if extra_fm_lines else ""
+
+        # Markdown output with long-filename image entry in front matter
         md_content = f"""---
 title: "{title}"
 collection: publications
-permalink: /publication/{filename.replace('.md', '')}
+permalink: /publication/{base_filename}
 date: {year}-01-01
 venue: '{venue}'
 paperurl: '{paper_url}'
 citation: '{authors}. ({year}). &quot;{title}.&quot; <i>{venue}</i>.'
+image: '{image_path}'{extra_fm_block}
 ---
 
 <details>
@@ -90,7 +111,9 @@ citation: '{authors}. ({year}). &quot;{title}.&quot; <i>{venue}</i>.'
 """
         with open(filepath, 'w', encoding='utf-8') as f:
             f.write(md_content)
-            
+        if extra_fm_lines:
+            print(f"  (kept {len(extra_fm_lines)} existing field(s), e.g. {extra_fm_lines[0].split(':')[0]}, for {filename})")
+
     print(f"Done! Check the _publications folder.")
 
 if __name__ == "__main__":

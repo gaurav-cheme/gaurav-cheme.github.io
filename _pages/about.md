@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Biomacromolecular phase separation and Polymer Physics research group"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
@@ -16,7 +16,5 @@ Welcome to our research group at IIT Indore! We use computational and theoretica
 
 **Join the Group!**
 =====
-JRF position: We are actively recruiting for a JRF to work on ANRF funded research project to study how phase separation can be used to engineer functional synthetic pyrenoids capable of carbon fixation. Please apply formally via [IIT Indore's website](https://www.iiti.ac.in/recruitments/jrf-srf-positions). The google form for application is: [google form](https://forms.gle/o2Dch8P4RvgTmiey7)
-
 For PhD and project positions, send an email to **gaurav@iiti.ac.in** expressing your interest. Some of the projects would include studying the role of phase separation of proteins on reaction kinetics in biological systems, and understanding how non-equilibrium activity could affect the phase diagram.
 
